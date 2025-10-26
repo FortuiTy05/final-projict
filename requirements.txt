@@ -2,9 +2,4 @@ streamlit
 pandas
 numpy
 matplotlib
-datetime
 seaborn
-folium
- streamlit_folium
-st_folium
-
